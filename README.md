@@ -1,4 +1,3 @@
-### Hacktoberfest 2023 Update
 #### We are open for any kind of feature request and pull request [hacktoberfest 2023]
 Initially, this repository was created just to showcase the project that was completed in the first year of my undergraduate study. Eventually, this project started to gain the attention of the open-source community. Thanks to all the contributors to this project.
 
